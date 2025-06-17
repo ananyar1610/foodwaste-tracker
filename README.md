@@ -16,7 +16,7 @@ This project aims to create a data-driven system to monitor food surplus and coo
   - Delete: Remove outdated or invalid datapoints
 
 ### 3. Data Analysis
--Run 15+SQL Queries to derive unique insights 
+- Run 15+SQL Queries to derive unique insights 
 
 ### 4. Application Development
 - Build a **Streamlit**-based user interface to:
