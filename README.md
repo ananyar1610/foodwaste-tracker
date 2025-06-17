@@ -2,7 +2,7 @@
 This project aims to create a data-driven system to monitor food surplus and coordinate donations between providers and receivers in real time.
 
 ## Project workflow
-###1. Data Preparation
+### 1. Data Preparation
 -Read csv datasets, namely, providers.csv, receiver.sv, foodlisting.csv and claims.csv
 -Clean and standardize data for accuracy and consistency
 -Format data 
