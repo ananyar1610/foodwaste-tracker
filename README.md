@@ -3,30 +3,30 @@ This project aims to create a data-driven system to monitor food surplus and coo
 
 ## Project workflow
 ### 1. Data Preparation
--Read csv datasets, namely, providers.csv, receiver.sv, foodlisting.csv and claims.csv
--Clean and standardize data for accuracy and consistency
--Format data 
+- Read csv datasets, namely, providers.csv, receiver.sv, foodlisting.csv and claims.csv
+- Clean and standardize data for accuracy and consistency
+- Format data 
 
 ### 2. Database Creation
--Store data into relational tabes in SQL
--Implement CRUD operations 
-  -Create: Insert new datapoints into the tables
-  -Read: Fetch new details from datasets
-  -Update: Edit datapoints
-  -Delete: Remove outdated or invalid datapoints
+- Store data into relational tabes in SQL
+- Implement CRUD operations 
+  - Create: Insert new datapoints into the tables
+  - Read: Fetch new details from datasets
+  - Update: Edit datapoints
+  - Delete: Remove outdated or invalid datapoints
 
 ### 3. Data Analysis
 -Run 15+SQL Queries to derive unique insights 
 
 ### 4. Application Development
--Build a **Streamlit**-based user interface to:
+- Build a **Streamlit**-based user interface to:
 - Display SQL query results in a user-friendly format.
   - Provide interactive filters: City, Provider, Food Type, Meal Type.
   - Show provider contact details for direct coordination.
   - Support real-time interaction with the SQL database.
 
  ### 5. Deployment
- -Deploy streamlit app to web
+ - Deploy streamlit app to web
  
  ---
 
